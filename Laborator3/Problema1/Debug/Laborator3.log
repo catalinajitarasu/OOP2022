@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Math.cpp
+C:\Users\Catalina\OneDrive\Desktop\Laborator3\Laborator3\Math.cpp(16,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Catalina\OneDrive\Desktop\Laborator3\Laborator3\Math.cpp(20,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Catalina\OneDrive\Desktop\Laborator3\Laborator3\Math.cpp(32,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Catalina\OneDrive\Desktop\Laborator3\Laborator3\Math.cpp(35,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Laborator3.vcxproj -> C:\Users\Catalina\OneDrive\Desktop\Laborator3\Debug\Laborator3.exe
